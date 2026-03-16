@@ -4,8 +4,9 @@ This repository contains the code for the paper [DreamBooth: Fine Tuning Text-to
 ![assets/dreambooth-fig-1.png](assets/dreambooth-fig-1.png)
 
 # Core Idea
-![assets/dreambooth-fig-3.png](assets/dreambooth-fig-3.png)
-
+<p align="center">
+    <img src="assets/dreambooth-fig-3.png" width="50%"/>
+</p>
 # Setup
 1. Clone the repository and navigate to the project directory:
 2. Install the required dependencies:
