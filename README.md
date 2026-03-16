@@ -7,6 +7,7 @@ This repository contains the code for the paper [DreamBooth: Fine Tuning Text-to
 <p align="center">
     <img src="assets/dreambooth-fig-3.png" width="50%"/>
 </p>
+
 # Setup
 1. Clone the repository and navigate to the project directory:
 2. Install the required dependencies:
